@@ -278,7 +278,7 @@ docker run -d -p 6001:6001 --name matrixone registry.cn-shanghai.aliyuncs.com/ma
 
 __Note__: The *nightly* version is updated once a day.
 
-### 🌟 Connecting to MatrixOne server
+**Step 3: Connecting to MatrixOne server**
 
 - Click <a href="https://dev.mysql.com/downloads/mysql" target="_blank">MySQL Community Downloads</a> to enter into the MySQL client download and installation page. According to your operating system and hardware environment.Configure the MySQL client environment variables.
 
