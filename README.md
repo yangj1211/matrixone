@@ -280,11 +280,13 @@ __Note__: The *nightly* version is updated once a day.
 
 **Step 3: Connecting to MatrixOne server**
 
-- Click <a href="https://dev.mysql.com/downloads/mysql" target="_blank">MySQL Community Downloads</a> to enter into the MySQL client download and installation page. According to your operating system and hardware environment.Configure the MySQL client environment variables.
+1. Install and configure MySQL Client
+
+Click <a href="https://dev.mysql.com/downloads/mysql" target="_blank">MySQL Community Downloads</a> to enter into the MySQL client download and installation page. According to your operating system and hardware environment.Configure the MySQL client environment variables.
 
 __Note__: MySQL client version 8.0.30 or later is recommended.
 
-- Connect to MatrixOne
+2. Connect to MatrixOne
 
 You can use the MySQL command-line client to connect to MatrixOne server. Open a new terminal window and enter the following command:
 

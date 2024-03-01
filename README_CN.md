@@ -223,9 +223,7 @@ wget https://raw.githubusercontent.com/matrixorigin/mo_ctl_standalone/main/insta
 
 **步骤 4.启动 MatrixOne 服务**
 
-通过 `mo_ctl start` 命令一键启动 MatrixOne 服务。
-
-如果运行正常将出现以下日志。MatrixOne 的相关运行日志会在 `/data/mo/logs/` 中。
+通过 `mo_ctl start` 命令一键启动 MatrixOne 服务。MatrixOne 的相关运行日志会在 `/data/mo/logs/` 中。
 
 __Tips__: 首次启动 MatrixOne 大致需要花费 20 至 30 秒的时间，在稍作等待后，你便可以连接至 MatrixOne。
 
